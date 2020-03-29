@@ -17,9 +17,13 @@ nltk.download('all')
 The format for adding one sample enry :
 
 {
+
     "tag": "goodbye",
+
     "patterns": ["Bye, bye","Bye", "See you later", "Goodbye", "Nice chatting to you, bye", "Till next time"],
+
     "responses": ["Bye, cant wait i see you soon!","See you!", "Have a nice day", "Bye! Come back again soon."],
+    
     "context": [""]
 }
 
@@ -52,8 +56,11 @@ When the REST API service is started the chatbot is ready!
 python chatbot.py
 
 you: hey!
+
 bot: Hi there, how can I help?
+
 you: what is the meaning of life?
+
 bot: 42
 you: 
 
