@@ -1,4 +1,4 @@
 *.pkl
 *.db
-*.freeze.txt
+freeze.txt
 *.h5
