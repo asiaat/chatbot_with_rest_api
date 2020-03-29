@@ -1,4 +1,4 @@
-# Chatbot with REST api
+# Chatbot with REST API service
 
 Chatbot, which uses a REST API layer to provide its services, which allows to isolate the chatbot interface from the trainded chatbot  model.
 
@@ -23,7 +23,7 @@ The format for adding one sample enry :
     "patterns": ["Bye, bye","Bye", "See you later", "Goodbye", "Nice chatting to you, bye", "Till next time"],
 
     "responses": ["Bye, cant wait i see you soon!","See you!", "Have a nice day", "Bye! Come back again soon."],
-    
+
     "context": [""]
 }
 
@@ -62,6 +62,7 @@ bot: Hi there, how can I help?
 you: what is the meaning of life?
 
 bot: 42
+
 you: 
 
 
