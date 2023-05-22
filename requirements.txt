@@ -7,7 +7,7 @@ nltk==3.4.5
 numpy==1.18.1
 numpydoc==0.9.2
 pandas==1.0.1
-requests==2.22.0
+requests==2.31.0
 tensorboard==2.1.1
 tensorflow==2.1.0
 tensorflow-estimator==2.1.0
